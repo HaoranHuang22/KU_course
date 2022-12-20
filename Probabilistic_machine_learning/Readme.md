@@ -1,4 +1,11 @@
 - Generalized linear model: https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab  
 Intuitive explanation, examples, code for GLM
 - Directed graphic model
-- Exercise 1
+- Random Processes
+- Gaussian Processes
+- EM and GMM
+- Probabilistic PCA
+- Pyro
+- Sampling Methods
+- Hamiltonian Monte Carlo
+- Variational Inference
