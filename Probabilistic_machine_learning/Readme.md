@@ -1,23 +1,13 @@
-# Generalized linear model: 
-Ref:
-https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab (Intuitive explanation, examples, code for GLM)
-
-# Directed graphic model
-
-# Random Processes
-
-# Gaussian Processes
-
-# EM and GMM
-
-# Probabilistic PCA
-
-# Sampling Methods
-
-# Hamiltonian Monte Carlo
-
-# Variational Inference
-
-# Variational Autoencoders
-
-# Diffusion Model
+|  Topic   | Slide  | Material  | Notes  |
+|  ----  | ----  | ----  | ----  |
+| Generalized Linear Model  | 单元格 | 单元格 | 单元格 |
+| Directed Graphic Model  | 单元格 | 单元格 | 单元格 |
+| Random Processes  | 单元格 | 单元格 | 单元格 |
+| Gaussian Processes  | 单元格 | 单元格 | 单元格 |
+| Mixture Models and EM  | 单元格 | 单元格 | 单元格 |
+| Probabilistic PCA  | 单元格 | 单元格 | 单元格 |
+| Sampling Methods  | 单元格 | 单元格 | 单元格 |
+| Hamiltonian Monte Carlo  | 单元格 | 单元格 | 单元格 |
+| Variational Inference  | 单元格 | 单元格 | 单元格 |
+| Variational Autoencoders  | 单元格 | 单元格 | 单元格 |
+| Diffusion Model  | 单元格 | 单元格 | 单元格 |
