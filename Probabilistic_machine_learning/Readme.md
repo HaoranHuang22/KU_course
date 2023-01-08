@@ -24,3 +24,5 @@ https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab (Intuitive
 # Variational Inference
 
 # Variational Autoencoders
+
+# Diffusion Model
